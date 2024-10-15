@@ -1,5 +1,5 @@
 ﻿namespace ERP.Domain.Models.AdminModels;
 
-public sealed class EmployeeEntity
+public  class EmployeeEntity
 {
 }
